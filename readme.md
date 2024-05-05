@@ -20,3 +20,6 @@ The model's performance will be evaluated based on its ability to predict breed 
 ## 4. Feature Engineering Considerations
 
 Since we're dealing with unstructured image data, deep learning or transfer learning techniques are well-suited for this task. The training set provides a significant amount of data (around 10,000+ images), which can be leveraged effectively by deep learning models.
+
+![image](https://github.com/yssfklc/dog-breed-classification/assets/121329421/d296b4ac-eb75-44a3-8bbd-8e9fe6a27ba9)
+
